@@ -1,0 +1,8 @@
+{
+  "name": "deAPI AI Studio",
+  "description": "چت و تولید هوش مصنوعی deAPI با رابط کاربری ChatGPT و ترجمه خودکار پرامت به انگلیسی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+
